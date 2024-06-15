@@ -1,0 +1,9 @@
+D:\19 C# Projects\DVLDProject_BusinessLayer\bin\Debug\DVLDProject_BusinessLayer.dll
+D:\19 C# Projects\DVLDProject_BusinessLayer\bin\Debug\DVLDProject_BusinessLayer.pdb
+D:\19 C# Projects\DVLDProject_BusinessLayer\bin\Debug\DVLDProject_DataAccessLayer.dll
+D:\19 C# Projects\DVLDProject_BusinessLayer\bin\Debug\DVLDProject_DataAccessLayer.pdb
+D:\19 C# Projects\DVLDProject_BusinessLayer\obj\Debug\DVLDProject_BusinessLayer.csproj.AssemblyReference.cache
+D:\19 C# Projects\DVLDProject_BusinessLayer\obj\Debug\DVLDProject_BusinessLayer.csproj.CoreCompileInputs.cache
+D:\19 C# Projects\DVLDProject_BusinessLayer\obj\Debug\DVLDProj.4C0CA49A.Up2Date
+D:\19 C# Projects\DVLDProject_BusinessLayer\obj\Debug\DVLDProject_BusinessLayer.dll
+D:\19 C# Projects\DVLDProject_BusinessLayer\obj\Debug\DVLDProject_BusinessLayer.pdb
