@@ -1,0 +1,8 @@
+D:\19 C# Projects\DVLDProject_DataAccessLayer\bin\Debug\DVLDProject_DataAccessLayer.dll
+D:\19 C# Projects\DVLDProject_DataAccessLayer\bin\Debug\DVLDProject_DataAccessLayer.pdb
+D:\19 C# Projects\DVLDProject_DataAccessLayer\obj\Debug\DVLDProject_DataAccessLayer.csproj.AssemblyReference.cache
+D:\19 C# Projects\DVLDProject_DataAccessLayer\obj\Debug\DVLDProject_DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\19 C# Projects\DVLDProject_DataAccessLayer\obj\Debug\DVLDProject_DataAccessLayer.dll
+D:\19 C# Projects\DVLDProject_DataAccessLayer\obj\Debug\DVLDProject_DataAccessLayer.pdb
+D:\19 C# Projects\DVLDProject_DataAccessLayer\obj\Debug\DVLDProject_DataAccessLayer.Properties.Resources.resources
+D:\19 C# Projects\DVLDProject_DataAccessLayer\obj\Debug\DVLDProject_DataAccessLayer.csproj.GenerateResource.cache
