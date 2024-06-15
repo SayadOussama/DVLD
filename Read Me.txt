@@ -1,0 +1,6 @@
+To Let the Program Work you need To Relate the the Parts together
+ data Layer
+ Business Layer
+ Presentation Layer
+
+In Install the Data To you SQL Server 
